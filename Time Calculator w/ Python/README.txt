@@ -5,6 +5,6 @@ The calculator adds the duration to the hour and gives out as output the time - 
 This project gave me quite a torture at some point. Eventually, I found myself troubled with a bug regarding the calculation of the days.
 I used LLMs but no LLM could offer a proper solution. In the end I realised that I was not adding a day every time the PM was changing to AM.
 If you think about it 11:59 PM + 0:02 minutes is 12:01 AM and one day passed. Before I fixed the bug it did not tell if a day passed.
-Thankfully, I mamnaged to pull it off.                                                                                                         
+Thankfully, I managed to pull it off.                                                                                                         
                                                                                                         
                                                                                               
