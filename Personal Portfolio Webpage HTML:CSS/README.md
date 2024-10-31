@@ -1,1 +1,1 @@
-My first webpage using html and css.
+My first webpage using HTML and CSS.
