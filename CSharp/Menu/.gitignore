@@ -1,0 +1,10 @@
+bin
+Migrations
+obj
+wwwroot
+Properties
+*.json
+_ViewImports.cshtml
+_ViewStart.cshtml
+Home
+Menu.csproj.user
